@@ -41,7 +41,7 @@ PYTHON Robotics System Toolbox Integration
 
 ## 🛠 Technologies Used
 
-* MATLAB
+* PYTHON
 * Robotics System Toolbox
 * rigidBodyTree
 * Inverse Kinematics
@@ -109,7 +109,7 @@ PYTHON Robotics System Toolbox Integration
 
 Open PYTHON and execute:
 
-```matlab
+```PYTHON
 industrial_robot_6dof
 ```
 
