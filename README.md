@@ -1,4 +1,4 @@
-# 🤖 Industrial 6-DOF Robot Simulator using MATLAB
+# 🤖 Industrial 6-DOF Robot Simulator using PYTHON
 
 A professional Industrial 6-DOF Robotic Arm Simulator developed using PYTHON Robotics System Toolbox. The project demonstrates Forward Kinematics, Inverse Kinematics, Trajectory Planning, Collision Detection, Obstacle Avoidance, Real-Time 3D Animation, CSV Data Logging, and Performance Analysis through engineering graphs.
 
