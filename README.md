@@ -107,7 +107,7 @@ PYTHON Robotics System Toolbox Integration
 
 ## ▶️ How to Run
 
-Open MATLAB and execute:
+Open PYTHON and execute:
 
 ```matlab
 industrial_robot_6dof
